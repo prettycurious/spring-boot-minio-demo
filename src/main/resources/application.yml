@@ -1,0 +1,7 @@
+minio:
+  endpoint: http://localhost
+  port: 9000
+  secure: false
+  assess-key: Be4gICi1ZABF68V8M7cf
+  secret-key: FNjlVupWyrEXN2NmmQ6ZHJNAkgnNZHEoh7RszNGJ
+  bucket-name: demo
